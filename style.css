@@ -1,0 +1,14 @@
+
+#cube {
+    width: 100px;
+    height: 100px;
+    background-color: hsl(0, 100%, 50%);
+    border: 2px solid;
+    cursor: pointer;
+}
+
+#cube-text {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
